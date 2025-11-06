@@ -1,0 +1,15 @@
+itemset,count,support
+{milk},10,0.666667
+{bread},13,0.866667
+{butter},12,0.800000
+{eggs},5,0.333333
+{cheese},7,0.466667
+"{bread,cheese}",5,0.333333
+"{bread,milk}",8,0.533333
+"{bread,eggs}",5,0.333333
+"{butter,milk}",7,0.466667
+"{bread,butter}",10,0.666667
+"{cheese,milk}",4,0.266667
+"{butter,cheese}",6,0.400000
+"{bread,butter,milk}",5,0.333333
+"{bread,butter,cheese}",4,0.266667

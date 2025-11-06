@@ -1,0 +1,9 @@
+antecedent,consequent,confidence
+{butter},{bread},0.833333
+{bread},{butter},0.769231
+{bread},{milk},0.615385
+{milk},{bread},0.800000
+{butter},{cheese},0.500000
+{cheese},{butter},0.857143
+{butter},{milk},0.583333
+{milk},{butter},0.700000

@@ -1,0 +1,16 @@
+Item 1,Item 2,Pearson Correlation
+milk,bread,0.16666666666666669
+milk,butter,0.16666666666666669
+milk,eggs,0.0
+milk,cheese,-0.10206207261596574
+milk,chips,-0.3563483225498992
+bread,butter,0.5833333333333333
+bread,eggs,0.0
+bread,cheese,-0.10206207261596574
+bread,chips,-0.3563483225498992
+butter,eggs,-0.40824829046386296
+butter,cheese,0.40824829046386296
+butter,chips,-0.3563483225498992
+eggs,cheese,-0.5
+eggs,chips,-0.2182178902359924
+cheese,chips,-0.32732683535398854
